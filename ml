@@ -2,7 +2,9 @@
   "cells": [
     {
       "cell_type": "code",
-      "source": [],
+      "source": [
+        "import numpy as np"
+      ],
       "metadata": {
         "id": "olVkvzjlj51e"
       },
